@@ -5,16 +5,16 @@ const Navbar = () => {
     const [displayMobileMenu, setDisplayMobileMenu] = useState(false);
 
     //Handle the scrolling when mobile menu bar is open
-    useEffect( () => {
-        if(displayMobileMenu){
-            document.body.style.overflow = 'hidden'
-        }else{
-            document.body.style.overflow = 'auto'
-        }
-        return () => {
-             document.body.style.overflow = 'auto'
-        }
-    },[displayMobileMenu])
+    // useEffect( () => {
+    //     if(displayMobileMenu){
+    //         document.body.style.overflow = 'hidden'
+    //     }else{
+    //         document.body.style.overflow = 'auto'
+    //     }
+    //     return () => {
+    //          document.body.style.overflow = 'auto'
+    //     }
+    // },[displayMobileMenu])
 
   return (
     <div className="absolute top-0 left-0 w-full z-10">
