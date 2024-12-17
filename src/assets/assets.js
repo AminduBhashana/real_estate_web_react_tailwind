@@ -12,6 +12,10 @@ import project_image5 from './project_image5.png'
 import project_image6 from './project_image6.png'
 import project_image7 from './project_image7.png'
 import project_image8 from './project_image8.jpg'
+import profile_pic1 from './profile1.png'
+import profile_pic2 from './profile2.png'
+import profile_pic3 from './profile3.png'
+import star_icon from './star-icon.png'
 
 export const assets = {
     logo,
@@ -28,6 +32,10 @@ export const assets = {
     project_image6,
     project_image7,
     project_image8,
+    profile_pic1,
+    profile_pic2,
+    profile_pic3,
+    star_icon
 }
 
 export const projectData = [
@@ -80,3 +88,32 @@ export const projectData = [
         image : project_image8
     },
 ]
+
+export const testimonials = [
+    {
+      name: "Kamal Perera",
+      title: "Software Engineer",
+      image: profile_pic1,
+      alt: "Customer1 image",
+      rating: 5,
+      text: "Your team helped me find my dream home. Their dedication, expertise, and attention to detail made the entire process seamless. I couldn't be happier with my new home!",
+    },
+    {
+      name: "Sanjaya Shehan",
+      title: "Real Estate Investor",
+      image: profile_pic2,
+      alt: "Customer2 image",
+      rating: 4,
+      text: "I’ve worked with many dealers, but You stand out. Their professionalism and the quality of their properties are unmatched. I highly recommend them for anyone looking to invest in real estate.",
+    },
+    {
+      name: "Nayana Salmal",
+      title: "Business Owner",
+      image: profile_pic3,
+      alt: "Customer3 image",
+      rating: 5,
+      text: "From the first meeting to the final handshake, your company exceeded all expectations. The process was smooth, and they truly listened to our needs. I am thrilled with my new office space.",
+    },
+    
+  ];
+  
