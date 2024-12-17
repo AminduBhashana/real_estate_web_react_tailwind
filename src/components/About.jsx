@@ -27,7 +27,7 @@ const About = () => {
                         <p className='lg:text-lg'>Ongoing Projects</p>
                     </div>
                 </div>
-                <p className='my-8 max-w-lg'> we bring your dream properties to life. Whether you're looking to buy, sell, or invest, 
+                <p className='my-8 max-w-lg'>we bring your dream properties to life. Whether you're looking to buy, sell, or invest, 
                 our portfolio showcases the finest real estate opportunities tailored to your needs. Your dream home awaits!</p>
                 <button className='bg-purple-600 text-white px-8 py-2 rounded-md'>Learn More</button>
             </div>
