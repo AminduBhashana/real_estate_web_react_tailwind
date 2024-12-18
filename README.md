@@ -1,4 +1,4 @@
-![Apilage Gedara Logo](screenshots/logo.png) </br>
+![Apilage Gedara Logo](images/logo.png) </br>
 _A Sleek and Responsive Real Estate Application_
 
 Welcome to **අපිලගෙ ගෙදර**, a modern and elegant real estate portfolio website. With seamless animations and stunning design, this application showcases the essence of your dream home through sections like **Home**, **About Us**, **Projects**, **Testimonials**, and **Contact Us**. Perfect for real estate businesses aiming to captivate audiences online.
@@ -32,16 +32,12 @@ Welcome to **අපිලගෙ ගෙදර**, a modern and elegant real estate
 ### **Web View**
 <table>
   <tr>
-    <td><img src="screenshots/web-home.png" alt="Home Page" width="500" height="300"/></td>
-    <td><img src="screenshots/web-about.png" alt="About Us Page" width="500" height="300"/></td>
+    <td><img src="images/Screenshot1.PNG" alt="Home Page" width="700" height="300"/></td>
+    <td><img src="images/Screenshot2.PNG" alt="About Us Page" width="700" height="300"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/web-projects.png" alt="Projects Page" width="500" height="300"/></td>
-    <td><img src="screenshots/web-testimonials.png" alt="Testimonials Page" width="500" height="300"/></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/web-contact.png" alt="Contact Us Page" width="500" height="300"/></td>
-    <td><img src="screenshots/web-testimonials.png" alt="Testimonials Page" width="500" height="300"/></td>
+    <td><img src="images/Screenshot3.PNG" alt="Projects Page" width="700" height="300"/></td>
+    <td><img src="images/Screenshot4.PNG" alt="Testimonials Page" width="700" height="300"/></td>
   </tr>
 </table>
 
@@ -53,7 +49,21 @@ Welcome to **අපිලගෙ ගෙදර**, a modern and elegant real estate
 
 ## **🚀 Installation & Usage**
 
-1. **Clone the repository**:  
+1. **Clone the repository :**  
    ```bash
    git clone https://github.com/AminduBhashana/real_estate_web_react_tailwind.git
    cd real_estate_web_react_tailwind
+
+2. **Install dependencies :**  
+   ```bash
+   npm install
+
+3. **Start the development server :**  
+   ```bash
+   npm run dev
+
+4. **Start the development server :**
+   Navigate to `http://localhost:5173`
+
+### 🌟 Thank You for Exploring **අපිලගෙ ගෙදර**!
+
