@@ -1,4 +1,4 @@
-![Apilage Gedara Logo](screenshots/logo.png) </br>
+![Apilage Gedara Logo](images/logo.png) </br>
 _A Sleek and Responsive Real Estate Application_
 
 Welcome to **අපිලගෙ ගෙදර**, a modern and elegant real estate portfolio website. With seamless animations and stunning design, this application showcases the essence of your dream home through sections like **Home**, **About Us**, **Projects**, **Testimonials**, and **Contact Us**. Perfect for real estate businesses aiming to captivate audiences online.
@@ -32,16 +32,16 @@ Welcome to **අපිලගෙ ගෙදර**, a modern and elegant real estate
 ### **Web View**
 <table>
   <tr>
-    <td><img src="screenshots/web-home.png" alt="Home Page" width="500" height="300"/></td>
-    <td><img src="screenshots/web-about.png" alt="About Us Page" width="500" height="300"/></td>
+    <td><img src="images/Screenshot1.png" alt="Home Page" width="500" height="300"/></td>
+    <td><img src="images/Screenshot2.png" alt="About Us Page" width="500" height="300"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/web-projects.png" alt="Projects Page" width="500" height="300"/></td>
-    <td><img src="screenshots/web-testimonials.png" alt="Testimonials Page" width="500" height="300"/></td>
+    <td><img src="images/Screenshot3.png" alt="Projects Page" width="500" height="300"/></td>
+    <td><img src="images/Screenshot4.png" alt="Testimonials Page" width="500" height="300"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/web-contact.png" alt="Contact Us Page" width="500" height="300"/></td>
-    <td><img src="screenshots/web-testimonials.png" alt="Testimonials Page" width="500" height="300"/></td>
+    <td><img src="images/Screenshot5.png" alt="Contact Us Page" width="500" height="300"/></td>
+    <td><img src="images/Screenshot6.png" alt="Footer Scetion" width="500" height="300"/></td>
   </tr>
 </table>
 
