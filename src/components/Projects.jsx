@@ -33,7 +33,7 @@ const Projects = () => {
   return (
     <motion.div 
     initial={{opacity: 0, x: -200}}
-    transition={{delay: 0.5,duration: 1.5}}
+    transition={{duration: 1.5}}
     whileInView={{opacity: 1, x:0}}
     viewport={{once: true,amount: 0.5}}
     className='container mx-auto py-4 pt-16 px-6 md:px-20 lg:px-24 my-12 w-full overflow-hidden' id='Projects'>
